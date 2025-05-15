@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MovieReviewCityApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MovieReviewCityApplication.class, args);
 	}
 
